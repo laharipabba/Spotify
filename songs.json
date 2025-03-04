@@ -1,0 +1,64 @@
+[
+    
+  {
+    "songName": "Nenu Nenuga",
+    "filepath": "audio/1.mp3",
+    "coverPath": "cover/1.jpg"
+  },
+  {
+    "songName": "Naalona Pongenu",
+    "filepath": "audio/2.mp3",
+    "coverPath": "cover/2.jpg"
+  },
+  {
+    "songName": "Hoyna Hoyna",
+    "filepath": "audio/3.mp3",
+    "coverPath": "cover/3.jpeg"
+  },
+  {
+    "songName": "Hello Ramante",
+    "filepath": "audio/4.mp3",
+    "coverPath": "cover/4.jpeg"
+  },
+  {
+    "songName": "Gaaju Bomma",
+    "filepath": "audio/5.mp3",
+    "coverPath": "cover/5.webp"
+  },
+  {
+    "songName": "Nijanga Nenena",
+    "filepath": "audio/6.mp3",
+    "coverPath": "cover/6.jpeg"
+  },
+  {
+    "songName": "Neeti Mullai",
+    "filepath": "audio/7.mp3",
+    "coverPath": "cover/7.jpeg"
+  },
+  {
+    "songName": "Gundu Sudhi",
+    "filepath": "audio/8.mp3",
+    "coverPath": "cover/8.jpg"
+  },
+  {
+    "songName": "Newyork Nagaram",
+    "filepath": "audio/9.mp3",
+    "coverPath": "cover/9.jpeg"
+  },
+  {
+    "songName": "Kanni Ipudu",
+    "filepath": "audio/10.mp3",
+    "coverPath": "cover/10.jpeg"
+  },
+  {
+    "songName": "Em sandheham ledhu",
+    "filepath": "audio/11.mp3",
+    "coverPath": "cover/11.jpg"
+  },{
+    "songName": "Chandamama Okati",
+    "filepath": "audio/12.mp3",
+    "coverPath": "cover/12.jpg"
+  }
+
+]
+
